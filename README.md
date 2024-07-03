@@ -30,7 +30,7 @@ This script, `create_users.sh`, automates the process of creating Linux users an
 
 ## Technical Article
 
-For a detailed explanation of the script's functionality, design choices, and the rationale behind each step, refer to our [technical article](#). This article provides insights into the scripting process, focusing on automation, security, and efficient user management.
+For a detailed explanation of the script's functionality, design choices, and the rationale behind each step, refer to our [technical article](https://dev.to/sipsdaoracle/automating-linux-user-creation-with-a-bash-script-1fc2). This article provides insights into the scripting process, focusing on automation, security, and efficient user management.
 
 ## Links to HNG Internship Websites
 
